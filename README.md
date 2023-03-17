@@ -1,6 +1,7 @@
 # UWprojects
 Sahil Bains - UW '24 - Github of All Projects
 
+(social_network.py and social_network_tests.py)
 CS 160 Homework 5:
 
 Implementing network/friend recommendation algorithms:
