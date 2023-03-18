@@ -7,18 +7,7 @@
 ### (social_network.py and social_network_tests.py)
 ## CS 160 Homework 5:
 
-Implementing network/friend recommendation algorithms:
-
-social network and social network tests implements two mechanisms for recommending a new friend in a social network,
-where the question is posed:
-
-“For user X, who is the best person to recommend to them as a friend?”
-
-Which actually answers a more comprehensive question:
-
-“For user X, list some non-friends in order, starting with the best friend recommendation and ending with the worst.”
-
-A non-friend is a user who is not X and is not a current friend of X. Depending on the recommendation algorithm, the list may include all non-friends of X or only some of them.
+This project implement network/friend recommendation algorithms for a social network. The primary goal is to answer the question, "Who is the best person to recommend as a friend for user X?" by generating a list of non-friends ordered from best friend recommendation to worst. A non-friend refers to any user who is not X and is not currently a friend of X. The recommendation algorithm may include all non-friends or only a subset of them depending on the specific algorithm being used. The project aims to provide a comprehensive solution for social network friend recommendations.
 
 ### blur_image.py and color_to_gray.py
 ## CS 160 Homework 3:
