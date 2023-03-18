@@ -23,7 +23,7 @@ A non-friend is a user who is not X and is not a current friend of X. Depending 
 ### blur_image.py and color_to_gray.py
 ## CS 160 Homework 3:
 
-** This project is designed to take input images and apply a blur effect to them. The code uses an algorithm that examines each pixel in the image and calculates the average value for that pixel. The resulting blurred image is then stored in a new grid with the same dimensions as the original image. For any pixel on the edge of the image, where its surrounding 8 pixels fall outside of the image, the code substitutes those values with 0. The end result is a blurred version of the original image that can be easily read and understood through individual pixels. **
+This project is designed to take input images and apply a blur effect to them. The code uses an algorithm that examines each pixel in the image and calculates the average value for that pixel. The resulting blurred image is then stored in a new grid with the same dimensions as the original image. For any pixel on the edge of the image, where its surrounding 8 pixels fall outside of the image, the code substitutes those values with 0. The end result is a blurred version of the original image that can be easily read and understood through individual pixels.
 
 
 
