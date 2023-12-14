@@ -29,10 +29,5 @@ Within the `Document` class, the task involves the creation of an initializer to
 
 The `SearchEngine` class, central to the project, demands the implementation of an initializer responsible for constructing an inverted index. This index associates each term in the corpus with a list of documents containing the term. A crucial private method, `_calculate_idf`, is introduced to compute the inverse document frequency. The search method, designed to handle both single and multi-term queries, computes and returns a sorted list of document paths based on the tf-idf statistic.
 
-### Implementation Guidelines
-
-The assignment places significant emphasis on meticulous planning and execution, encouraging students to comprehend the nuances of the tf-idf statistic. A structured approach is advised, beginning with careful testing of the Document class before progressing to the SearchEngine class. The comprehensive nature of this project makes it an ideal addition to a technical portfolio, showcasing proficiency in data science and Python programming.
-
-
 
 
